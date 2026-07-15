@@ -128,18 +128,6 @@ This repository includes screenshots documenting:
 * ✅ Account lockout policy configured
 * ✅ PowerShell administration completed
 
----
-
-## Next Steps
-
-* Install Sysmon
-* Configure Windows Event Logging
-* Deploy Wazuh or Splunk
-* Perform Active Directory enumeration from Kali Linux
-* Build Blue Team detection and investigation labs
-
----
-
 ## Learning Outcome
 
 This home lab provides practical experience with enterprise Windows administration and serves as the foundation for learning Active Directory security, Windows monitoring, and SOC operations.
