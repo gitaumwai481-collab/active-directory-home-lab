@@ -116,17 +116,17 @@ This repository includes screenshots documenting:
 
 ## Current Progress
 
-* ✅ Active Directory deployed
-* ✅ DNS configured
-* ✅ Windows 11 joined to the domain
-* ✅ Organizational Units created
-* ✅ Users and groups created
-* ✅ Shared folders configured
-* ✅ NTFS permissions implemented
-* ✅ Group Policy deployed
-* ✅ Password policy configured
-* ✅ Account lockout policy configured
-* ✅ PowerShell administration completed
+*  Active Directory deployed
+*  DNS configured
+*  Windows 11 joined to the domain
+*  Organizational Units created
+*  Users and groups created
+*  Shared folders configured
+*  NTFS permissions implemented
+*  Group Policy deployed
+*  Password policy configured
+*  Account lockout policy configured
+*  PowerShell administration completed
 
 ## Learning Outcome
 
